@@ -1,0 +1,60 @@
+*   commit e79e34c691e06a2dc30988391f1c9bf01372721c
+|\  Merge: 14ddf8d 7f09c75
+| | Author: Ilya Gaikin <89740644+igaikin@users.noreply.github.com>
+| | Date:   Fri Sep 10 01:35:20 2021 +0300
+| | 
+| |     Merge pull request #1 from igaikin/task1
+| |     
+| |     Hometask
+| | 
+| * commit 7f09c750d65bf653064e37a3e906955a6ae200d8
+| | Author: Ilya Gaikin <gaikin@icloud.com>
+| | Date:   Fri Sep 10 01:11:35 2021 +0300
+| | 
+| |     Item 25 of the task
+| | 
+| * commit d1479afbf76dd42b85306c4db1a0ef45633c157a
+| | Author: Ilya Gaikin <gaikin@icloud.com>
+| | Date:   Thu Sep 9 23:11:02 2021 +0300
+| | 
+| |     Clone repo. File3.txt changed
+| | 
+| * commit b966207652567e5261dbbbbeb638ad39fdf15636
+| | Author: Ilya Gaikin <gaikin@icloud.com>
+| | Date:   Thu Sep 9 21:49:16 2021 +0300
+| | 
+| |     The third commit.
+| |     
+| |     Changes have been made to file2.txt, added to the index. Created
+| |     file3.txt, added to the index and commited a commit without specifying a
+| |     message.
+| | 
+| * commit ea54144d769bfd9c28c637c1f366961fbbd8a9d5
+| | Author: Ilya Gaikin <gaikin@icloud.com>
+| | Date:   Thu Sep 9 19:27:51 2021 +0300
+| | 
+| |     Second file commit
+| | 
+* | commit 14ddf8d4e2a454f4732291f1520baf3ac0eb64fd
+| | Author: Ilya Gaikin <gaikin@icloud.com>
+| | Date:   Fri Sep 10 00:52:14 2021 +0300
+| | 
+| |     Final version)) readme.md
+| | 
+* | commit 1dce1bba0b1b1d71467dfc3d6381b76d580395cb
+| | Author: Ilya Gaikin <gaikin@icloud.com>
+| | Date:   Fri Sep 10 00:38:44 2021 +0300
+| | 
+| |     Edited readme.md
+| | 
+* | commit dc2809fc2d9dba13b51d055c454272cfb4349e64
+|/  Author: Ilya Gaikin <gaikin@icloud.com>
+|   Date:   Fri Sep 10 00:34:10 2021 +0300
+|   
+|       Wrote readme.md
+| 
+* commit ad33e783c28672c312456185ab6868a02a976842
+  Author: Ilya Gaikin <gaikin@icloud.com>
+  Date:   Thu Sep 9 16:38:36 2021 +0300
+  
+      First file commit
