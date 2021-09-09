@@ -1,0 +1,242 @@
+    1  зцв
+    2  pwd
+    3  cd/
+    4  cd..
+    5  cd ..
+    6  cd ..
+    7  mkdir git-test
+    8  cd /d/
+    9  cd /c/
+   10  cd c/git-test/
+   11  mkdir git-test/
+   12  cd /d/
+   13  mkdir git-test/
+   14  cd /d/git-test/
+   15  cd /d/git-test/
+   16  mkdir repo1
+   17  cd /d/git-test/repo1/
+   18  ll
+   19  ls
+   20  git init
+   21  la
+   22  ls
+   23  ls la
+   24  git status
+   25  touch file1.txt
+   26  ls
+   27  ll
+   28  git status
+   29  git add file1.txt 
+   30  git status
+   31  touch file2.txt
+   32  git status
+   33  vim file1.txt 
+   34  less file1
+   35  less file1.txt
+   36  git status
+   37  git add .
+   38  git status
+   39  git config --global user.email "gaikin@icloud.com"
+   40  git config --global user.email
+   41  git config --global user.name "Ilya Gaikin"
+   42  git config --global user.name
+   43  git commit -m "Initial commit"
+   44  git log
+   45  git log --oneline
+   46  vim file2.txt
+   47  cat file2.txt
+   48  git status
+   49  git add.
+   50  git add.
+   51  git add .
+   52  git commit -m "Add two lines to file2.txt"
+   53  git log --online
+   54  git log --oneline
+   55  git remote add origin git@github.com:igaikin/git-test-rep1.git
+   56  git remote -v
+   57  git status
+   58  git push
+   59  git push -u origin master
+   60  git remote add origin https://github.com/igaikin/git-test-rep1.git
+   61  git remote add origin git@github.com:igaikin/git-test-rep1.git
+   62  git remote add origin git@github.com:igaikin/git-test-rep1.git
+   63  git push
+   64  git push -u origin master
+   65  $ git config --global user.name "Ilya Gaikin"
+   66  git config --global user.name "Ilya Gaikin"
+   67  git config --global user.email "gaikin@icloud.com"
+   68  cd /c/
+   69  mkdir gaikin-git-repo
+   70  cd gaikin-git-repo/
+   71  git init
+   72  git remote add origin git@github.com:igaikin/gaikin-git-repo.git
+   73  git remote add origin git@github.com:igaikin/gaikin-git-repo.git
+   74  git remote -v
+   75  git branch task1
+   76  git status
+   77  ls -la
+   78  touch file1.txt
+   79  git status
+   80  git add file1.txt
+   81  git status
+   82  vim file1.txt
+   83  commit file1.txt
+   84  git commit "First file commit"
+   85  vim file1.txt
+   86  git commit
+   87  git log --oneline
+   88  git push
+   89  set push -u origin master
+   90  git push -u origin master
+   91  git status
+   92  git commit -m "First file commit"
+   93  git add file1.txt
+   94  git commit -m :First file commit"
+   95  First
+   96  q
+   97  cd /c/
+   98  cd /c/gaikin-git-repo/
+   99  git status
+  100  git add file1.txt
+  101  git status
+  102  git commit -m "First file commit"
+  103  git remote add origin git@github.com:igaikin/gaikin-git-repo.git
+  104  git ll
+  105  git ls
+  106  ls
+  107  ll
+  108  git add file1.txt
+  109  git commit -m "First file"
+  110  git status
+  111  git commit -m 'First file'
+  112  git add file1.txt
+  113  git status
+  114  touch file1.txt
+  115  get add file1.txt
+  116  git add file1.txt
+  117  git status
+  118  git config --global user.name "Ilya Gaikin"
+  119  git config --global user.email "gaikin@icloud.com"
+  120  pwd
+  121  mkdir gaikin-git-repo
+  122  cd gaikin-git-repo/
+  123  git init
+  124  git remote add origin git@github.com:igaikin/gaikin-git-repo.git
+  125  git remote -v
+  126  touch file1.txt
+  127  git status
+  128  git add file1.txt
+  129  git status
+  130  git commit -m "First file commit"
+  131  git log --oneline
+  132  git push
+  133  git push -u origin master
+  134  ssh-add AAAAB3NzaC1yc2EAAAABIwAAAQEAq2A7hRGmdnm9tUDbO9IDSwBK6TbQa+PXYPCPy6rbTrTtw7PHkccKrpp0yVhp5HdEIcKr6pLlVDBfOLX9QUsyCOV0wzfjIJNlGEYsdlLJizHhbn2mUjvSAHQqZETYP81eFzLQNnPHt4EVVUh7VfDESU84KezmD5QlWpXLmvU31/yMf+Se8xhHTvKSCZIFImWwoG6mbUoWf9nzpIoaSjB+weqqUUmpaaasXVal72J+UX2B+2RPW3RcT0eOzQgqlJL3RKrTJvdsjE3JEAvGq3lGHSZXy28G3skua2SmVi/w4yCE6gbODqnTWlg7+wC604ydGXA8VJiS5ap43JXiUFFAaQ==
+  135  ssh add
+  136  ssh-keygen -t rsa -C"GitBash"
+  137  git remote add origin https://github.com/igaikin/gaikin-git-repo.git
+  138  git remote add origin https://github.com/igaikin/gaikin-git-repo.git
+  139  git remote -v
+  140  ssh-keygen -t rsa -C"GitBash"
+  141  git remote add origin https://github.com/igaikin/gaikin-git-repo.git
+  142  git remote rm origin
+  143  git remote add origin https://github.com/igaikin/gaikin-git-repo.git
+  144  git push -u origin master
+  145  git status
+  146  git branch task1
+  147  git branch -a
+  148  git checkout task1
+  149  touch file2.txt
+  150  git add file2.txt
+  151  git status
+  152  git commit -m "Second file commit"
+  153  vim file2.txt
+  154  vim file2.txt
+  155  vim file2.txt
+  156  add file2.txt
+  157  git add file2.txt
+  158  git status
+  159  rm .file2.txt.swp
+  160  git status
+  161  touch file3.txt
+  162  git status
+  163  git add file3.txt
+  164  git status
+  165  git commit
+  166  git push -u origin task1
+  167  cd ..
+  168  mkdir gaikin-git-repo2
+  169  cd gaikin-git-repo2
+  170  git init
+  171  git clone https://github.com/igaikin/gaikin-git-repo.git
+  172  git checkout task1
+  173  git status
+  174  git clone https://github.com/igaikin/gaikin-git-repo.git
+  175  git checkout task1
+  176  git status
+  177  mkdir gaikin-git-repo2
+  178  cd ..
+  179  mkdir gaikin-git-repo2
+  180  cd gaikin-git-repo2
+  181  git clone https://github.com/igaikin/gaikin-git-repo.git
+  182  git status
+  183  git clone gh repo clone igaikin/gaikin-git-repo
+  184  git clone https://github.com/igaikin/gaikin-git-repo.git
+  185  git clone https://github.com/igaikin/gaikin-git-repo.git
+  186  git status
+  187  git branch -r
+  188  cd gaikin-git-repo/
+  189  git checkout task1
+  190  touch file4.txt
+  191  vim file3.txt
+  192  git commit -m "Clone repo. File3.txt changed"
+  193  git add file3.txt
+  194  git add file4.txt
+  195  git status
+  196  git commit -m "Clone repo. File3.txt changed"
+  197  git push -u origin task1
+  198  git checkout master
+  199  touch readme.md
+  200  git status
+  201  vim redme.md
+  202  vim readme.md
+  203  rm redme.md
+  204  git add readme.md
+  205  git commit -m "Wrote readme.md"
+  206  git push -u origin master
+  207  vim readme.md
+  208  git add readme.md
+  209  git commit -m "Edited readme.md"
+  210  git push -u origin master
+  211  vim readme.md
+  212  git add readme.md
+  213  git commit -m "Final version)) readme.md"
+  214  git push -u origin master
+  215  cd ..
+  216  cd ..
+  217  cd gaikin-git-repo
+  218  git checkout master
+  219  git status
+  220  git fetch
+  221  git status
+  222  git checkout task1
+  223  git checkout master
+  224  git pull
+  225  git checkout task1
+  226  git pull
+  227  vim file4.txt
+  228  git add file4.txt
+  229  git commit -m "Item 25 of the task"
+  230  git push -u origin task1
+  231  git checkout master
+  232  git fetch
+  233  git status
+  234  git pull
+  235  git fetch
+  236  git pull
+  237  history
+  238  git log
+  239  git log --oneline --graph
+  240  git branch task2
+  241  git checkout task2
+  242  history > history.txt
