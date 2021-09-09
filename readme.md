@@ -8,9 +8,9 @@ And the devil pulled me to ask Herman what to write "readme.md". Having received
 *Special thanks*
 -------------
 
--Herman Rabinkin
--Internet networks
--My patience
--A couple of cups of coffee
--Cigarettes (without them, my patience would have burst faster)
++Herman Rabinkin
++Internet networks
++My patience
++A couple of cups of coffee
++Cigarettes (without them, my patience would have burst faster)
 
